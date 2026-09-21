@@ -197,13 +197,14 @@ Stated plainly, because knowing the gap is part of the engineering:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhilyaSanjaySarnaik&repo=supervisor-ai-chatbot&theme=github_dark&hide_border=true" alt="Repo stats card" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhilyaSanjaySarnaik&repo=supervisor-ai-chatbot&theme=github-compact&hide_border=true" alt="Commit activity graph" width="100%" />
+[![GitHub repo size](https://img.shields.io/github/repo-size/AhilyaSanjaySarnaik/supervisor-ai-chatbot?style=flat&color=3fb950)](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AhilyaSanjaySarnaik/supervisor-ai-chatbot?style=flat&color=58a6ff)](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/AhilyaSanjaySarnaik/supervisor-ai-chatbot?style=flat&color=d29922)](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot/graphs/contributors)
+[![GitHub top language](https://img.shields.io/github/languages/top/AhilyaSanjaySarnaik/supervisor-ai-chatbot?style=flat&color=f85149)](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot)
 
 </div>
 
-*Both images above are generated live and reflect the actual current state of this repo — commits, stars, and activity — not a static snapshot.*
+*All badges above are shields.io-backed and pulled live from GitHub's API on every page load — repo size, monthly commit activity, contributor count, and primary language all reflect the current real state of the repo.*
 
 ## License
 
